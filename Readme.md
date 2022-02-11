@@ -1,9 +1,6 @@
 # Kurulum & Proje
-* kurulum cok basit yazmaya üsendim modülleri yüklüyonuz yavrularim settings dosyasını aliyonuz idleri giriyonuz bitiyor.
+* Eskiden herkesin glitchden aktif ettiği token kısmı v11 de kapandı, bu proje sayesinde aktif edip sese sokabileceksiniz iyi kodlamalar.
 
-
-# Önemli Bilgiler!
-Selam dostlarım, kendi yaptığım ve 1 ay önce kullandığım guard altyapımı burda paylaşıcam ve coğu paylasılan altyapıdan sağlam olduğunu düşünüyorum, işinizi görürse **Starlamayı** unutma!
 
 # Contact
 * [İnstagram](https://instagram.com/satukecim)
