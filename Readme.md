@@ -1,5 +1,6 @@
 # Kurulum & Proje
-* Yakında koyacağım :)
+* kurulum cok basit yazmaya üsendim modülleri yüklüyonuz yavrularim settings dosyasını aliyonuz idleri giriyonuz bitiyor.
+
 
 # Önemli Bilgiler!
 Selam dostlarım, kendi yaptığım ve 1 ay önce kullandığım guard altyapımı burda paylaşıcam ve coğu paylasılan altyapıdan sağlam olduğunu düşünüyorum, işinizi görürse **Starlamayı** unutma!
