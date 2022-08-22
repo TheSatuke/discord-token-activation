@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "x",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "satuke champion #1949",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "discord.js-selfbot": "^12.0.2",
+    "fs": "^0.0.1-security",
+    "meska.js": "^1.0.5"
+  }
+}
